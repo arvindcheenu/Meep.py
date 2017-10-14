@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/arvindcheenu/Meep.py/master/readmebg.png" width="200%" height="200%">
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 ## About the Program
 
 **MEEP** is the abbreviation for ***Mark Entry Evaluation Program***.
@@ -63,3 +66,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+<p align="center"> 
+<br/>
+<img src="http://forthebadge.com/badges/built-with-swag.svg">
+  &nbsp;&nbsp;
+  <span style="font-weight:bold;">by</span>
+  &nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arvindcheenu/Meep.py/master/readmebg.png" width="34px" height="34px">
+</p>

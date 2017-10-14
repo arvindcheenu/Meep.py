@@ -1,0 +1,228 @@
+=============================================================================
+ M.E.E.P. ANALYSIS OF FILE:
+ FILEPATH: C:/Users/anura_000/Desktop/Meep App/app_data/test_data/CBSE_XII_2015.txt
+=============================================================================
+ BRIEF SUMMARY OF CLASS PERFORMANCE IN ENGLISH
+CORE:
+=============================================================================
+ MAXIMUM SCORED IN ENGLISH
+CORE : 97
+ MINIMUM SCORED IN ENGLISH
+CORE : 47
+ CLASS PERCENTAGE IN ENGLISH
+CORE : 91%
+ NUMBER OF STUDENTS SCORING ABOVE 90 : 32
+ NUMBER OF STUDENTS SCORING 80 TO 90 : 6
+ NUMBER OF STUDENTS SCORING 70 TO 80 : 2
+ NUMBER OF STUDENTS SCORING 60 TO 70 : 1
+ NUMBER OF STUDENTS SCORING 50 TO 60 : 0
+ NUMBER OF STUDENTS SCORING 40 TO 50 : 1
+ NUMBER OF STUDENTS SCORING BELOW 40 : 0
+=============================================================================
+ TOPPERS IN ENGLISH
+CORE:
+=============================================================================
+ ROLL.NO -------+------- STUDENT-NAME
+ 4601981 -------|------- APARAJITHAN VENKATESWARAN 
+ 4601984 -------|------- NIKHIL DINESH 
+ 4601994 -------|------- B ARAVINDHSHANKAR 
+=============================================================================
+
+=============================================================================
+ BRIEF SUMMARY OF CLASS PERFORMANCE IN ECONOMICS:
+=============================================================================
+ MAXIMUM SCORED IN ECONOMICS : 99
+ MINIMUM SCORED IN ECONOMICS : 48
+ CLASS PERCENTAGE IN ECONOMICS : 82%
+ NUMBER OF STUDENTS SCORING ABOVE 90 : 8
+ NUMBER OF STUDENTS SCORING 80 TO 90 : 2
+ NUMBER OF STUDENTS SCORING 70 TO 80 : 0
+ NUMBER OF STUDENTS SCORING 60 TO 70 : 2
+ NUMBER OF STUDENTS SCORING 50 TO 60 : 1
+ NUMBER OF STUDENTS SCORING 40 TO 50 : 1
+ NUMBER OF STUDENTS SCORING BELOW 40 : 0
+=============================================================================
+ TOPPERS IN ECONOMICS:
+=============================================================================
+ ROLL.NO -------+------- STUDENT-NAME
+ 4602009 -------|------- BHOOMIKA MOORJANI 
+=============================================================================
+
+=============================================================================
+ BRIEF SUMMARY OF CLASS PERFORMANCE IN MATHS:
+=============================================================================
+ MAXIMUM SCORED IN MATHS : 99
+ MINIMUM SCORED IN MATHS : 41
+ CLASS PERCENTAGE IN MATHS : 82%
+ NUMBER OF STUDENTS SCORING ABOVE 90 : 21
+ NUMBER OF STUDENTS SCORING 80 TO 90 : 3
+ NUMBER OF STUDENTS SCORING 70 TO 80 : 8
+ NUMBER OF STUDENTS SCORING 60 TO 70 : 3
+ NUMBER OF STUDENTS SCORING 50 TO 60 : 1
+ NUMBER OF STUDENTS SCORING 40 TO 50 : 3
+ NUMBER OF STUDENTS SCORING BELOW 40 : 0
+=============================================================================
+ TOPPERS IN MATHS:
+=============================================================================
+ ROLL.NO -------+------- STUDENT-NAME
+ 4601981 -------|------- APARAJITHAN VENKATESWARAN 
+ 4602001 -------|------- N RAJIV VAIDYANATHAN 
+=============================================================================
+
+=============================================================================
+ BRIEF SUMMARY OF CLASS PERFORMANCE IN PHYSICS:
+=============================================================================
+ MAXIMUM SCORED IN PHYSICS : 96
+ MINIMUM SCORED IN PHYSICS : 63
+ CLASS PERCENTAGE IN PHYSICS : 86%
+ NUMBER OF STUDENTS SCORING ABOVE 90 : 16
+ NUMBER OF STUDENTS SCORING 80 TO 90 : 6
+ NUMBER OF STUDENTS SCORING 70 TO 80 : 6
+ NUMBER OF STUDENTS SCORING 60 TO 70 : 3
+ NUMBER OF STUDENTS SCORING 50 TO 60 : 0
+ NUMBER OF STUDENTS SCORING 40 TO 50 : 0
+ NUMBER OF STUDENTS SCORING BELOW 40 : 0
+=============================================================================
+ TOPPERS IN PHYSICS:
+=============================================================================
+ ROLL.NO -------+------- STUDENT-NAME
+ 4602008 -------|------- AURITRA CHANDRA 
+=============================================================================
+
+=============================================================================
+ BRIEF SUMMARY OF CLASS PERFORMANCE IN CHEMISTRY:
+=============================================================================
+ MAXIMUM SCORED IN CHEMISTRY : 97
+ MINIMUM SCORED IN CHEMISTRY : 63
+ CLASS PERCENTAGE IN CHEMISTRY : 86%
+ NUMBER OF STUDENTS SCORING ABOVE 90 : 16
+ NUMBER OF STUDENTS SCORING 80 TO 90 : 7
+ NUMBER OF STUDENTS SCORING 70 TO 80 : 6
+ NUMBER OF STUDENTS SCORING 60 TO 70 : 2
+ NUMBER OF STUDENTS SCORING 50 TO 60 : 0
+ NUMBER OF STUDENTS SCORING 40 TO 50 : 0
+ NUMBER OF STUDENTS SCORING BELOW 40 : 0
+=============================================================================
+ TOPPERS IN CHEMISTRY:
+=============================================================================
+ ROLL.NO -------+------- STUDENT-NAME
+ 4601985 -------|------- PARVESH BABA Y 
+ 4602008 -------|------- AURITRA CHANDRA 
+=============================================================================
+
+=============================================================================
+ BRIEF SUMMARY OF CLASS PERFORMANCE IN BIOLOGY:
+=============================================================================
+ MAXIMUM SCORED IN BIOLOGY : 96
+ MINIMUM SCORED IN BIOLOGY : 84
+ CLASS PERCENTAGE IN BIOLOGY : 91%
+ NUMBER OF STUDENTS SCORING ABOVE 90 : 8
+ NUMBER OF STUDENTS SCORING 80 TO 90 : 4
+ NUMBER OF STUDENTS SCORING 70 TO 80 : 0
+ NUMBER OF STUDENTS SCORING 60 TO 70 : 0
+ NUMBER OF STUDENTS SCORING 50 TO 60 : 0
+ NUMBER OF STUDENTS SCORING 40 TO 50 : 0
+ NUMBER OF STUDENTS SCORING BELOW 40 : 0
+=============================================================================
+ TOPPERS IN BIOLOGY:
+=============================================================================
+ ROLL.NO -------+------- STUDENT-NAME
+ 4601983 -------|------- JAHNAVI NARAYANAN 
+=============================================================================
+
+=============================================================================
+ BRIEF SUMMARY OF CLASS PERFORMANCE IN BUSINESS
+STUDIES:
+=============================================================================
+ MAXIMUM SCORED IN BUSINESS
+STUDIES : 98
+ MINIMUM SCORED IN BUSINESS
+STUDIES : 73
+ CLASS PERCENTAGE IN BUSINESS
+STUDIES : 93%
+ NUMBER OF STUDENTS SCORING ABOVE 90 : 10
+ NUMBER OF STUDENTS SCORING 80 TO 90 : 0
+ NUMBER OF STUDENTS SCORING 70 TO 80 : 1
+ NUMBER OF STUDENTS SCORING 60 TO 70 : 0
+ NUMBER OF STUDENTS SCORING 50 TO 60 : 0
+ NUMBER OF STUDENTS SCORING 40 TO 50 : 0
+ NUMBER OF STUDENTS SCORING BELOW 40 : 0
+=============================================================================
+ TOPPERS IN BUSINESS
+STUDIES:
+=============================================================================
+ ROLL.NO -------+------- STUDENT-NAME
+ 4602013 -------|------- AISHWARYA NARAYAN 
+=============================================================================
+
+=============================================================================
+ BRIEF SUMMARY OF CLASS PERFORMANCE IN COMPUTER
+SCIENCE:
+=============================================================================
+ MAXIMUM SCORED IN COMPUTER
+SCIENCE : 99
+ MINIMUM SCORED IN COMPUTER
+SCIENCE : 66
+ CLASS PERCENTAGE IN COMPUTER
+SCIENCE : 86%
+ NUMBER OF STUDENTS SCORING ABOVE 90 : 7
+ NUMBER OF STUDENTS SCORING 80 TO 90 : 4
+ NUMBER OF STUDENTS SCORING 70 TO 80 : 4
+ NUMBER OF STUDENTS SCORING 60 TO 70 : 1
+ NUMBER OF STUDENTS SCORING 50 TO 60 : 0
+ NUMBER OF STUDENTS SCORING 40 TO 50 : 0
+ NUMBER OF STUDENTS SCORING BELOW 40 : 0
+=============================================================================
+ TOPPERS IN COMPUTER
+SCIENCE:
+=============================================================================
+ ROLL.NO -------+------- STUDENT-NAME
+ 4601994 -------|------- B ARAVINDHSHANKAR 
+ 4602004 -------|------- V G VENKATESH 
+=============================================================================
+
+=============================================================================
+ BRIEF SUMMARY OF CLASS PERFORMANCE IN HUMANITIES:
+=============================================================================
+ MAXIMUM SCORED IN HUMANITIES : 95
+ MINIMUM SCORED IN HUMANITIES : 77
+ CLASS PERCENTAGE IN HUMANITIES : 85%
+ NUMBER OF STUDENTS SCORING ABOVE 90 : 1
+ NUMBER OF STUDENTS SCORING 80 TO 90 : 1
+ NUMBER OF STUDENTS SCORING 70 TO 80 : 1
+ NUMBER OF STUDENTS SCORING 60 TO 70 : 0
+ NUMBER OF STUDENTS SCORING 50 TO 60 : 0
+ NUMBER OF STUDENTS SCORING 40 TO 50 : 0
+ NUMBER OF STUDENTS SCORING BELOW 40 : 0
+=============================================================================
+ TOPPERS IN HUMANITIES:
+=============================================================================
+ ROLL.NO -------+------- STUDENT-NAME
+ 4602006 -------|------- R RAMYA 
+=============================================================================
+
+=============================================================================
+ BRIEF SUMMARY OF CLASS PERFORMANCE IN ACCOUNTANCY:
+=============================================================================
+ MAXIMUM SCORED IN ACCOUNTANCY : 95
+ MINIMUM SCORED IN ACCOUNTANCY : 62
+ CLASS PERCENTAGE IN ACCOUNTANCY : 87%
+ NUMBER OF STUDENTS SCORING ABOVE 90 : 7
+ NUMBER OF STUDENTS SCORING 80 TO 90 : 2
+ NUMBER OF STUDENTS SCORING 70 TO 80 : 1
+ NUMBER OF STUDENTS SCORING 60 TO 70 : 1
+ NUMBER OF STUDENTS SCORING 50 TO 60 : 0
+ NUMBER OF STUDENTS SCORING 40 TO 50 : 0
+ NUMBER OF STUDENTS SCORING BELOW 40 : 0
+=============================================================================
+ TOPPERS IN ACCOUNTANCY:
+=============================================================================
+ ROLL.NO -------+------- STUDENT-NAME
+ 4602013 -------|------- AISHWARYA NARAYAN 
+ 4602014 -------|------- S DIVYA 
+ 4602017 -------|------- P MANASA DEVI 
+ 4602018 -------|------- SAIMIRRA R 
+ 4602020 -------|------- SNEHA SHESHAGIRI SHENOY 
+ 4602021 -------|------- GARIMELLA VAMSI KRISHNA 
+=============================================================================
+

@@ -71,8 +71,10 @@ SOFTWARE.
 <p align="center"> 
 <br/>
 <img src="http://forthebadge.com/badges/built-with-swag.svg">
+<!--  
   &nbsp;&nbsp;
   <span style="font-weight:bold;">by</span>
   &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/arvindcheenu/Meep.py/master/readmebg.png" width="34px" height="34px">
+-->
 </p>

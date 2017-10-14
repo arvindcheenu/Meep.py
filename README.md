@@ -1,1 +1,1 @@
-![alt text](readmebg.png "Meep.py")
+![alt text](readmebg.png "Meep.py"){:class="img-responsive"}

@@ -40,11 +40,11 @@ where `../` must be replaced by the directory in which the python file is presen
 
 These are the sample plots for the test data of a real 12th Standard CBSE marksheet, provided by my Alma Mater, Arsha Vidya Mandir, for analysis purposes only.
 
-##License
+## License
 
-####MIT License
+#### MIT License
 
-#####*Copyright (c) 2017 arvindcheenu*
+##### *Copyright (c) 2017 arvindcheenu*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

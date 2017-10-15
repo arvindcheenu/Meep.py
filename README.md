@@ -70,11 +70,7 @@ SOFTWARE.
 
 <p align="center"> 
 <br/>
-<img src="http://forthebadge.com/badges/built-with-swag.svg">
-<!--  
-  &nbsp;&nbsp;
-  <span style="font-weight:bold;">by</span>
-  &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/arvindcheenu/Meep.py/master/readmebg.png" width="34px" height="34px">
--->
+<img style="padding-top:15px;" src="http://forthebadge.com/badges/built-with-swag.svg"/>
+  <span style="font-weight:bold;">&nbsp;&nbsp;by&nbsp;&nbsp;</span>
+<img src="https://avatars1.githubusercontent.com/u/13925213?s=460&v=4" width="45px" height="45px"/>
 </p>

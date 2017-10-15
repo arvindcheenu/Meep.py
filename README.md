@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/arvindcheenu/Meep.py/master/readmebg.png" width="200%" height="200%">
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 

@@ -73,4 +73,5 @@ SOFTWARE.
 <img style="padding-top:15px;" src="http://forthebadge.com/badges/built-with-swag.svg"/>
   <span style="font-weight:bold;">&nbsp;&nbsp;by&nbsp;&nbsp;</span>
 <img src="https://avatars1.githubusercontent.com/u/13925213?s=460&v=4" width="45px" height="45px"/>
+<br/>
 </p>
